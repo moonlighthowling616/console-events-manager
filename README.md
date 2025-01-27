@@ -1,2 +1,2 @@
 # Simple-Text-Based-Events-Manager
-A simple text-based events manager made in Java using IntelliJ based on our old CS finals project
+This is a really simple text-based events manager program developed in Java using IntelliJ. It is based on our old CS 1st semester finals project. It allows an individual or an institution to manage events with ease.
