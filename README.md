@@ -6,4 +6,3 @@ A really simple console events manager system made in Java. It allows an individ
 
 ## 💾**Download**
 Download the [latest release](https://github.com/moonlighthowling616/text-based-events-manager/releases/tag/v1.0-release) here
-
